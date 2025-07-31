@@ -1,0 +1,41 @@
+1. Acceptance of Terms
+By using the Time Zone Converter, you ("User" or "You") agree to be bound by the terms and conditions set forth in this Agreement. If you do not agree with these terms, please do not use the Application.
+
+2. Purpose and Use of the Application
+The Time Zone Converter is designed to provide users with the ability to convert time between different time zones. The Application is for informational purposes only. The accuracy of the time conversions may depend on external factors, such as daylight savings time, and we cannot guarantee the absolute correctness of the results.
+
+3. License and Restrictions
+License Grant: You are granted a limited, non-exclusive, non-transferable license to use the Application on your device solely for personal and non-commercial purposes.
+Restrictions: You may not modify, distribute, sell, or reverse-engineer the Application or any part of it. Unauthorized use or distribution of the Application is prohibited.
+4. Data Privacy
+The Time Zone Converter does not collect personal information or store any data entered by the user in the application.
+By using the application, you understand and agree that any time zone or date-time inputs you provide are processed locally on your device.
+5. Accuracy and Reliability
+While we strive to ensure that the time conversions provided by the Application are accurate, we do not guarantee the correctness or completeness of the data.
+The Application may rely on third-party sources (e.g., time zone databases), and changes in global time zones or daylight saving time could impact the results. We encourage users to double-check time zone information from official sources when necessary.
+6. Limitation of Liability
+No Warranty: The Application is provided "as is" without warranty of any kind, express or implied. We make no representations or warranties about the Application’s functionality, completeness, or suitability for any specific purpose.
+Limitation of Liability: Under no circumstances shall the creators of the Application be held liable for any direct, indirect, incidental, or consequential damages arising out of or in connection with the use of the Application, including but not limited to any errors or inaccuracies in time conversion results.
+7. Termination
+We reserve the right to suspend or terminate access to the Application at any time, for any reason, including but not limited to violation of this Agreement. Upon termination, your license to use the Application will be revoked, and you must cease all use of the Application.
+
+8. Modifications to the Agreement
+We may update or modify this Agreement from time to time. Any changes will be effective when posted in the Application or made available to you through another method. Continued use of the Application after such modifications will constitute your acceptance of the new terms.
+
+9. Governing Law
+This Agreement shall be governed by and construed in accordance with the laws of [Insert Jurisdiction]. Any legal action or proceeding arising out of or related to this Agreement shall be exclusively in the courts located in [Insert Jurisdiction].
+
+10. Contact Information
+If you have any questions or concerns regarding this Agreement or the Time Zone Converter, please contact us at:
+
+Email: [Insert Contact Email]
+Support Website: [Insert Support Website]
+11. Acknowledgment
+By using the Time Zone Converter, you acknowledge that you have read, understood, and agree to be bound by the terms and conditions of this Agreement.
+
+End of Agreement
+
+This sample agreement provides a general structure for a user agreement that you can adapt to fit your specific needs. It's important to consider consulting a legal professional to ensure the agreement meets legal requirements and is appropriate for your application.
+
+
+
